@@ -6,6 +6,7 @@
 		<img class="logos__entry" src="/sanity.svg" alt="Sanity Logo" />
 	</div>
 	<div class="steps">
+		<h1>Hello World.</h1>
 		<h2 class="steps__title">Next steps</h2>
 		<ul class="steps__list">
 			<li class="steps__entry">
